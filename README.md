@@ -11,15 +11,15 @@ Unity 6
 
 ### Backend
 
-Postgres
-Docker
-Strapi v3 
-Node JS 
-Postman 
-Typescript 
-Socket.OI 
-DBeaver 
-strapi-plugin-schemas-to-ts 
+Postgres  
+Docker  
+Strapi v3   
+Node JS   
+Postman   
+Typescript   
+Socket.OI   
+DBeaver   
+strapi-plugin-schemas-to-ts  
 
 Deploy on
 
