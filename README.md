@@ -11,8 +11,8 @@ Unity 6
 
 ### Backend
 
-Postgres 
-Docker 
+Postgres
+Docker
 Strapi v3 
 Node JS 
 Postman 
