@@ -21,7 +21,7 @@ Socket.OI
 DBeaver   
 strapi-plugin-schemas-to-ts  
 
-Deploy on
+### Deploy on
 
 Digital Ocean
 
